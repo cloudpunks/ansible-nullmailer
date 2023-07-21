@@ -1,6 +1,6 @@
 ---
 repository:
-  name: nullmailer
+  name: ansible-nullmailer
   description: Ansible role to install and configure nullmailer relay MTA
   topics: ansible, role, ansible-role, hacktoberfest
 
